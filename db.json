@@ -1,0 +1,58 @@
+[
+	{
+		"ID": "1",
+		"FirstName": "Senpai",
+		"LastName": "Smith",
+		"Gender": "1",
+    "Grades": [80, 90, 88, 91]
+	},
+	{
+		"ID": "2",
+		"FirstName": "Yui",
+		"LastName": "Rio",
+		"Gender": "0",
+		 "Grades": [80, 90, 88, 91]
+	},
+	{
+		"ID": "3",
+		"FirstName": "Yuna",
+		"LastName": "Hina",
+		"Gender": "0",
+		 "Grades": [80, 80, 88, 91]
+	},
+	{
+		"ID": "4",
+		"FirstName": "Koharu",
+		"LastName": "Hinata",
+		"Gender": "0",
+		 "Grades": [84, 86, 88, 91]
+	},
+	{
+		"ID": "5",
+		"FirstName": "Mei",
+		"LastName": "Mio",
+		"Gender": "0",
+		"Grades": [88, 80, 88, 91]
+	},
+	{
+		"ID": "6",
+		"FirstName": "Saki",
+		"LastName": "Miyu",
+		"Gender": "0",
+		"Grades": [82, 91, 78, 91]
+	},
+	{
+		"ID": "7",
+		"FirstName": "Kokona",
+		"LastName": "Haruka",
+		"Gender": "0",
+		"Grades": [80, 93, 86, 81]
+	},
+	{
+		"ID": "8",
+		"FirstName": "Haruto",
+		"LastName": "Yuto",
+		"Gender": "1",
+		"Grades": [80, 70, 78, 71]
+	}
+]
